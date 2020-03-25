@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+	text-shadow: 5px 5px 6px grey;
+}
+
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.miss {
+  background-color: red;
+}
+
+.row{
+	justify-content: center;
+}
+
+h2{
+	text-align: center;
+	color: rgba(255, 51, 204, 0.8);
+	text-shadow: 5px 5px 6px rgba(255, 51, 204, 1);
+}
+
+
+button{
+	width: 1300px;
+	height: 100px;
+}
